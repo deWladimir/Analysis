@@ -5,6 +5,6 @@ Here are some files:
 
 **CreateDataBase.sql** - query to create the database (PostgreSQL)
 
-**Load_list_tenders.py** - python sript you should run to load the data from the API (it can take more than 12 hours)
+**Load_list_tenders.py** - python script you should run to load the data from the API (it can take more than 12 hours)
 
 **Tender_Analysis.sql** - script you should use to aggregate the data by month and year 
