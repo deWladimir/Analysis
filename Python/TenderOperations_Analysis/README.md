@@ -1,4 +1,4 @@
-# Anlysis of tender operations progress from 2020 to March 2023
+# Anlysis of tender operation progress from 2020 to March 2023
 ## Data is taken via the prozorro.gov.ua API
 Here are some files:  
 **Tender_Analysis.xlsx** - visual representation of the analysed data 
