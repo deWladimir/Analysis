@@ -28,8 +28,8 @@ def timeBeautifier(timeDiff):
 
 # Function to send a telegram message
 def sendTelegramMessage(message):
-    token = "6248492153:AAEJ0mov3alWtjRr8L9zHh07RUKRrgz_B7M"
-    chat_id = '-1001841780460'
+    token = "your_token"
+    chat_id = 'your_chat_id'
     apiURL = 'https://api.telegram.org/bot{}/sendMessage'.format(token)
 
     try:
